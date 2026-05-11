@@ -71,3 +71,5 @@ En segundo lugar, la integración de Git y GitHub transformó la perspectiva sob
 
 Finalmente, la actividad confirma que el rol del científico de datos moderno requiere una mentalidad híbrida: debe poseer tanto la capacidad analítica para limpiar y transformar información compleja como las competencias técnicas para gestionar versiones, documentar procesos y automatizar despliegues. Las habilidades adquiridas en este laboratorio sientan las bases para operar bajo metodologías ágiles y participar eficazmente en equipos multidisciplinarios de alto rendimiento.
 
+
+link del repositorio: https://github.com/piarpuezanjuan39-spec/preprocesamiento-ciencia-datos
