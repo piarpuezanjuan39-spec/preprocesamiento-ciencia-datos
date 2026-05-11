@@ -62,4 +62,12 @@ Se configuró un workflow básico de CI/CD que se ejecuta automáticamente en ca
 ![alt text](image-2.png)
 
 ## 5. Conclusiones
-Este proyecto permitió aplicar prácticas de control de versiones y preprocesamiento de datos siguiendo metodologías ágiles.
+El desarrollo de este proyecto ha permitido consolidar dos competencias críticas para el perfil profesional en Ciencia de Datos: la ingeniería de software aplicada a datos y la calidad analítica.
+En primer lugar, la implementación práctica del módulo de preprocesamiento con Pandas y Scikit-learn evidenció que el estado de la materia prima (los datos) determina directamente la viabilidad de cualquier análisis o modelo posterior. Se comprobó que técnicas como la imputación estratégica de nulos, la estandarización de escalas y la codificación de variables no son pasos opcionales, sino requisitos fundamentales para evitar sesgos estadísticos y garantizar la convergencia de algoritmos de aprendizaje automático. La capacidad de estructurar este proceso en una clase reutilizable (PreprocesamientoDatos) demuestra la importancia de modularizar el código para facilitar su mantenimiento y escalabilidad.
+
+
+En segundo lugar, la integración de Git y GitHub transformó la perspectiva sobre la gestión de proyectos. El uso de ramas (feature-preprocesamiento) y el flujo de Pull Requests demostró cómo se puede desarrollar funcionalidad de manera aislada sin comprometer la estabilidad de la rama principal. Esta metodología de trabajo no solo previene la pérdida de código, sino que establece un historial transparente y auditable de la evolución del proyecto, un estándar obligatorio en entornos laborales colaborativos.
+
+
+Finalmente, la actividad confirma que el rol del científico de datos moderno requiere una mentalidad híbrida: debe poseer tanto la capacidad analítica para limpiar y transformar información compleja como las competencias técnicas para gestionar versiones, documentar procesos y automatizar despliegues. Las habilidades adquiridas en este laboratorio sientan las bases para operar bajo metodologías ágiles y participar eficazmente en equipos multidisciplinarios de alto rendimiento.
+
