@@ -1,0 +1,24 @@
+# Archivos Python compilados
+*.pyc
+*.pyo
+*.pyd
+
+# Directorios
+.vscode/
+__pycache__/
+.idea/
+
+# Archivos de configuración local
+.env
+
+# Entornos virtuales
+venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Datos (opcional, si no quieres subir datasets grandes)
+*.csv
+*.xlsx
