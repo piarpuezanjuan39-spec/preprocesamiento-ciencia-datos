@@ -1,5 +1,6 @@
 # Documentación del Proyecto - Preprocesamiento de Datos
-
+# Nombre: Juan Piarpuezan
+# curso: 3ro B
 ## 1. Introducción
 
 ### Objetivo del Proyecto
